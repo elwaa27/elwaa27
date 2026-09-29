@@ -115,7 +115,7 @@ Building Real-World Projects
 
 I'm always open to learning, collaborating, and discussing technology.
 
-📧 **Email:** Your Email
+📧 **Email:** muhazriel84@gmail.com
 💻 **GitHub:** [@elwaa27](https://github.com/elwaa27)
 
 ---
@@ -124,6 +124,3 @@ I'm always open to learning, collaborating, and discussing technology.
   <i>“Keep learning. Keep building. Keep improving.”</i>
 </p>
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
