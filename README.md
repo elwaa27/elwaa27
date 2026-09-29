@@ -103,12 +103,12 @@ Building Real-World Projects
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elwaa27&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elwaa27&layout=compact" />
 </p>
----
 
 ## 🤝 Let's Connect
 
